@@ -1,0 +1,14 @@
+.th{
+    background-color: #595959;
+    color:white;
+    text-align:center;
+}
+
+.tr{ 
+    border-spacing: 6px; 
+}
+        
+.td{
+    text-align:center;
+    color: white;
+}
